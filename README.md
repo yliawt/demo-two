@@ -1,2 +1,4 @@
 # demo-two
-Example od GH repo starting on remote side with new branch name
+Example of GH repo starting on remote side with new branch name
+Update readme file
+
